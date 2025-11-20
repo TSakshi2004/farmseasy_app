@@ -1,0 +1,7 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card .form-text { font-size: 0.9rem; }
+#resultCard { min-height: 160px; }
+.progress-bar { transition: width 700ms ease; }
+.preset { cursor: pointer; }
+#historyList li { margin-bottom: 6px; }
+.btn-outline-info { white-space: nowrap; }
